@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Rafael Kataoka
 
-<!--
-**KataokaDev/KataokaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Software Engineer focused on backend development using Java, Spring Boot.
+- 💡 I’m curious about how artificial intelligence is changing software development.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+### About Me
+
+```java
+public class Rafael extends Developer {
+
+    String name      = "Rafael de Morais Kataoka";
+    int    age       = 20;
+    String degree    = "Software Engineering @ Unifil";
+    String location  = "Londrina, Paraná — Brazil 🇧🇷";
+    String focus     = "Back-end · Cloud · Full-Stack";
+    boolean openToWork = true;
+
+    String[] currentlyLearning = {
+        "JavaScript", "TypeScript", "Angular"
+    };
+}
+```
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+#### Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### Currently Learning
+
+<div align="center">
+
+#### Front-end
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
+
+---
+
+### Get in Touch
+
+<div align="center">
+ 
+  <a href="https://www.linkedin.com/in/rafael-de-morais-kataoka">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/rafa.ktk_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KataokaDev">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto: rafaelktk2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
