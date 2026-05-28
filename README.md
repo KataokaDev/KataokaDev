@@ -61,8 +61,6 @@ public class Rafael : Developer
 
 ### 🌐 Connect with me
 
-*Let's build something together — or just say hi.*
-
 <br/>
 
 | | Platform | Link |
