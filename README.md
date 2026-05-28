@@ -78,6 +78,18 @@ public class Rafael : Developer
 
 <div align="center">
 
+### <img src="https://cdn.simpleicons.org/github/ffffff" width="22" style="vertical-align:middle;"/> GitHub Stats
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KataokaDev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+<hr style="border: 0; border-top: 1px solid #333;"/>
+
+<div align="center">
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=KataokaDev&color=6e40c9&style=flat-square&label=visitors"/>
@@ -85,4 +97,3 @@ public class Rafael : Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
