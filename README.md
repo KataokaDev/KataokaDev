@@ -8,11 +8,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Kataoka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"/>
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td valign="top">
-
 # Hi, I'm Rafael Kataoka
 
 - 🧠 Software Engineer focused on full-stack development using C# and .NET.
@@ -28,11 +23,6 @@ public class Rafael : Developer
     public bool   OpenToWork = true;
 }
 ```
-
-</td>
-</tr>
-</table>
-</div>
 
 <hr style="border: 0; border-top: 1px solid #333;"/>
 
@@ -95,3 +85,4 @@ public class Rafael : Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
