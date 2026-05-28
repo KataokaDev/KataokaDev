@@ -90,8 +90,6 @@ public class Rafael : Developer
 
 <div align="center">
 
-*"Good code is the one that doesn't need explanation."*
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=KataokaDev&color=6e40c9&style=flat-square&label=visitors"/>
