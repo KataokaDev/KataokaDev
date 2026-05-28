@@ -5,28 +5,17 @@
 </div>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Kataoka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-morais-kataoka)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.ktk_/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KataokaDev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelktk2005@gmail.com)
-
 </div>
 
 # Hi, I'm Rafael Kataoka
 
-- 🧠 Software Engineer focused on backend development using Java, Spring Boot.
-- 💡 I’m curious about how artificial intelligence is changing software development.
+- 🧠 Software Engineer focused on full-stack development using C# and .NET.
+- 💡 I'm curious about how artificial intelligence is changing software development.
 
 <br/>
 
----
+<hr style="border: 0; border-top: 1px solid #333;"/>
 
 ### About me
 
@@ -43,14 +32,15 @@ public class Rafael : Developer
 
 <br/>
 
----
+<hr style="border: 0; border-top: 1px solid #333;"/>
 
 <br/>
 
 ### 🔥 Main Stack
-<br/>
-<div align="left">
 
+<br/>
+
+<div align="left">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -64,8 +54,10 @@ public class Rafael : Developer
 <br/>
 
 ### ✔️ Have Knowledge
+
 <br/>
-<div align="leftr">
+
+<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -78,13 +70,14 @@ public class Rafael : Developer
 
 <br/>
 
----
+<hr style="border: 0; border-top: 1px solid #333;"/>
 
 <br/>
 
 <div align="center">
 
 ### GitHub Stats
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KataokaDev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -93,7 +86,28 @@ public class Rafael : Developer
 
 <br/>
 
----
+<hr style="border: 0; border-top: 1px solid #333;"/>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Connect with me
+
+<br/>
+
+| | Platform | Link |
+|---|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-morais-kataoka) | LinkedIn | [rafael-de-morais-kataoka](https://www.linkedin.com/in/rafael-de-morais-kataoka) |
+| <img src="https://cdn.simpleicons.org/instagram/E4405F" width="24"/> | Instagram | [@rafa.ktk_](https://www.instagram.com/rafa.ktk_/) |
+| <img src="https://cdn.simpleicons.org/github/181717" width="24"/> | GitHub | [KataokaDev](https://github.com/KataokaDev) |
+| <img src="https://cdn.simpleicons.org/gmail/D14836" width="24"/> | Email | [rafaelktk2005@gmail.com](mailto:rafaelktk2005@gmail.com) |
+
+</div>
+
+<br/>
+
+<hr style="border: 0; border-top: 1px solid #333;"/>
 
 <div align="center">
 
@@ -104,3 +118,4 @@ public class Rafael : Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
