@@ -1,85 +1,109 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Kataoka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"/>
+
 </div>
-
-
-# Hi, I'm Rafael Kataoka
-
-- 🧠 Software Engineer focused on backend development using Java, Spring Boot.
-- 💡 I’m curious about how artificial intelligence is changing software development.
-
-  ---
-  ### 🌐 Socials
 
 <div align="center">
- 
-  <a href="https://www.linkedin.com/in/rafael-de-morais-kataoka">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/rafa.ktk_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KataokaDev">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto: rafaelktk2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-morais-kataoka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.ktk_/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KataokaDev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaelktk2005@gmail.com)
+
 </div>
+
+<br/>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+### 👋 About me
 
-### About Me
-
-```java
-public class Rafael extends Developer {
-
-    String name      = "Rafael de Morais Kataoka";
-    int    age       = 20;
-    String degree    = "Software Engineering @ Unifil";
-    String location  = "Londrina, Paraná — Brazil 🇧🇷";
-    String focus     = "Back-end · Cloud · Full-Stack";
-    boolean openToWork = true;
-
-    String[] currentlyLearning = {
-        "JavaScript", "TypeScript", "Angular"
+```csharp
+public class Rafael : Developer
+{
+    public string Name      = "Rafael de Morais Kataoka";
+    public int    Age       = 20;
+    public string Degree    = "Software Engineering @ Unifil";
+    public string Location  = "Londrina, Paraná — Brazil 🇧🇷";
+    public string Focus     = "Full-Stack · Cloud";
+    public bool   OpenToWork = true;
+    public string[] Others = {
+        "Java", "JavaScript", "MySQL", "PostgreSQL",
+        "Docker", "Postman"
     };
 }
 ```
 
-<br clear="right"/>
+<br/>
 
 ---
 
-### Tech Stack
+<br/>
+
+### 🛠️ Main Stack
+
+> What I use every single day.
 
 <div align="center">
 
-#### Back-end
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 </div>
 
----
+<br/>
 
-### Currently Learning
+### 🧩 Have Knowledge
+
+> Not my main focus, but I know my way around.
 
 <div align="center">
 
-#### Front-end
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=KataokaDev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataokaDev&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KataokaDev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*"Good code is the one that doesn't need explanation."*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=KataokaDev&color=6e40c9&style=flat-square&label=visitors"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+
+</div>
