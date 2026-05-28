@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Kataoka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"/>
 
@@ -13,11 +19,16 @@
 
 </div>
 
+# Hi, I'm Rafael Kataoka
+
+- 🧠 Software Engineer focused on backend development using Java, Spring Boot.
+- 💡 I’m curious about how artificial intelligence is changing software development.
+
 <br/>
 
 ---
 
-### 👋 About me
+### About me
 
 ```csharp
 public class Rafael : Developer
@@ -26,12 +37,7 @@ public class Rafael : Developer
     public int    Age       = 20;
     public string Degree    = "Software Engineering @ Unifil";
     public string Location  = "Londrina, Paraná — Brazil 🇧🇷";
-    public string Focus     = "Full-Stack · Cloud";
     public bool   OpenToWork = true;
-    public string[] Others = {
-        "Java", "JavaScript", "MySQL", "PostgreSQL",
-        "Docker", "Postman"
-    };
 }
 ```
 
@@ -41,9 +47,10 @@ public class Rafael : Developer
 
 <br/>
 
-### Main Stack
+### 🔥 Main Stack
+<br/>
+<div align="left">
 
-<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -56,9 +63,9 @@ public class Rafael : Developer
 
 <br/>
 
-### Have Knowledge
-
-<div align="center">
+### ✔️ Have Knowledge
+<br/>
+<div align="leftr">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
