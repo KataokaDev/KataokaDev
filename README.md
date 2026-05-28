@@ -41,9 +41,7 @@ public class Rafael : Developer
 
 <br/>
 
-### 🛠️ Main Stack
-
-> What I use every single day.
+### Main Stack
 
 <div align="center">
 
@@ -58,9 +56,7 @@ public class Rafael : Developer
 
 <br/>
 
-### 🧩 Have Knowledge
-
-> Not my main focus, but I know my way around.
+### Have Knowledge
 
 <div align="center">
 
@@ -81,11 +77,7 @@ public class Rafael : Developer
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=KataokaDev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KataokaDev&layout=compact&theme=midnight-purple&hide_border=true"/>
-
+### GitHub Stats
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KataokaDev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
