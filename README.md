@@ -8,16 +8,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rafael%20Kataoka&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn"/>
 </div>
 
+<div align="center">
+<table>
+<tr>
+<td valign="top">
+
 # Hi, I'm Rafael Kataoka
 
 - 🧠 Software Engineer focused on full-stack development using C# and .NET.
 - 💡 I'm curious about how artificial intelligence is changing software development.
-
-<br/>
-
-<hr style="border: 0; border-top: 1px solid #333;"/>
-
-### About me
 
 ```csharp
 public class Rafael : Developer
@@ -30,17 +29,18 @@ public class Rafael : Developer
 }
 ```
 
-<br/>
+</td>
+</tr>
+</table>
+</div>
 
 <hr style="border: 0; border-top: 1px solid #333;"/>
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🔥 Main Stack
-
-<br/>
-
-<div align="left">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -49,15 +49,10 @@ public class Rafael : Developer
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
-
-<br/>
+</td>
+<td valign="top" width="50%">
 
 ### ✔️ Have Knowledge
-
-<br/>
-
-<div align="left">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,33 +61,17 @@ public class Rafael : Developer
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
-<br/>
-
-<hr style="border: 0; border-top: 1px solid #333;"/>
-
-<br/>
-
-<div align="center">
-
-### GitHub Stats
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KataokaDev&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
+</td>
+</tr>
+</table>
 
 <hr style="border: 0; border-top: 1px solid #333;"/>
-
-<br/>
 
 <div align="center">
 
 ### 🌐 Connect with me
+
+*Let's build something together — or just say hi.*
 
 <br/>
 
@@ -105,8 +84,6 @@ public class Rafael : Developer
 
 </div>
 
-<br/>
-
 <hr style="border: 0; border-top: 1px solid #333;"/>
 
 <div align="center">
@@ -118,4 +95,3 @@ public class Rafael : Developer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
