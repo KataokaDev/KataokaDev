@@ -10,17 +10,18 @@
 
 # Hi, I'm Rafael Kataoka
 
-- 🧠 Software Engineer focused on full-stack development using C# and .NET.
+- 🧠 Software Engineer focused on full-stack development using Java and Spring Boot.
 - 💡 I'm curious about how artificial intelligence is changing software development.
 
-```csharp
-public class Rafael : Developer
-{
-    public string Name      = "Rafael de Morais Kataoka";
-    public int    Age       = 20;
-    public string Degree    = "Software Engineering @ Unifil";
-    public string Location  = "Londrina, Paraná — Brazil 🇧🇷";
-    public bool   OpenToWork = true;
+``` Java
+public class Rafael extends Developer {
+
+    public String name = "Rafael de Morais Kataoka";
+    public int age = 20;
+    public String degree = "Software Engineering @ Unifil";
+    public String location = "Londrina, Paraná — Brazil 🇧🇷";
+    public boolean openToWork = true;
+
 }
 ```
 
