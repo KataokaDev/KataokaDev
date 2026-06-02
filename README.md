@@ -10,7 +10,7 @@
 
 # Hi, I'm Rafael Kataoka
 
-- 🧠 Software Engineer focused on full-stack development using Java and Spring Boot.
+- 🧠 Software Engineer focused on back-end development using Java and Spring Boot.
 - 💡 I'm curious about how artificial intelligence is changing software development.
 
 ``` Java
